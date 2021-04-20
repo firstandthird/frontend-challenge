@@ -36,3 +36,5 @@ To simplify the task, you can simulate that the form takes two seconds to submit
 The base composition is shown below and can be found in the `assets` folder, along with the original Sketch file.
 
 ![Composition](/assets/composition.png)
+
+*Good Luck!* And remember to have fun!.
