@@ -20,7 +20,7 @@ To simplify the task, you can simulate that the form takes two seconds to submit
 - Initialize a package using either `yarn` or `npm`.
 - Install any required pacakges and prepare the code and folder structure however you like.
 - _IF_ you are using ES6 or similar code that must be transpiled, add a `build`, `start` or `dev` script to the `package.json`
-- Build the form using your chosen code paradigm. You may use ES5/6, React, or Vanilla Javascript, etc. Any other libraries, or syntax supersets (ie. Typescript) are **completely discouraged**.
+- Build the form using your chosen code paradigm. You may use ES5/6, React, or Vanilla Javascript, etc.
 - If you are using React:
     - Please `useHooks` as that is what we would like to assess.
     - Feel free to use [Create React App](https://github.com/facebook/create-react-app#creating-an-app) to spin up your application. Try to remember to create an initial commit with the base code, and a seperate commit with the customization to seperate code that you have written and customized.
